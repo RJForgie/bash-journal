@@ -5,8 +5,8 @@ Command-line journaling tool that stores all your entries in a single text file 
 
 ## Installation
 ```bash
-# Download the script
-sudo wget https://raw.githubusercontent.com/RJForgie/bash-journal/refs/heads/main/journal.sh -O /usr/local/bin/jn
+# Download the script (macOS with curl)
+sudo curl -o /usr/local/bin/jn https://raw.githubusercontent.com/RJForgie/bash-journal/refs/heads/main/journal.sh
 
 # Make executable
 sudo chmod +x /usr/local/bin/jn
