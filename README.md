@@ -1,12 +1,12 @@
 # Minimalist Command-Line Journal
 
 ## Overview
-Command-line journaling tool that stores all your entries in a single text file with a date-based format. Inspirted by [Journal.TXT](https://journaltxt.github.io/).
+Command-line journaling tool that stores all your entries in a single text file with a date-based format. Inspired by [Journal.TXT](https://journaltxt.github.io/).
 
 ## Installation
 ```bash
 # Download the script
-sudo wget https://raw.githubusercontent.com/your-script/jn -O /usr/local/bin/jn
+sudo wget https://raw.githubusercontent.com/RJForgie/bash-journal/refs/heads/main/journal.sh -O /usr/local/bin/jn
 
 # Make executable
 sudo chmod +x /usr/local/bin/jn
